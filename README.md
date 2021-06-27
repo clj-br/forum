@@ -1,4 +1,4 @@
-# Clojure Brasil
+# clojure.brasil
 
 
 A ideia é utilizar o Discussions do Github para conectar membros da comunidade
