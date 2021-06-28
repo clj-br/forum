@@ -1,6 +1,5 @@
 # clojure.brasil
 
-
 A ideia é utilizar o Discussions do Github para conectar membros da comunidade
 Clojure Brasil em um ambiente de fórum tradicional. O objetivo é prover uma
 estrutura para construção de uma base de conhecimento técnica para os usuários
@@ -13,6 +12,10 @@ Esperamos que você:
 - Intereja com outros membros da comunidade
 - Trate todos com respeito e de forma amigável
 
+# Conecte-se já
+
+[Fórum Clojure Brasil](https://github.com/wandersoncferreira/clojure.brasil/discussions)
+
 
 # Tutoriais e how-to
 
@@ -21,6 +24,3 @@ estrutura de Wiki do repositório e para isso basta submeter um PR para o
 repositório com um arquivo markdown na pasta `docs`.
 
 
-# Conecte-se já
-
-[Fórum Clojure Brasil](https://github.com/wandersoncferreira/clojure.brasil/discussions)
