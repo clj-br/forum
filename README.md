@@ -19,6 +19,11 @@ receber atualizações do fórum.
 
 [Fórum Clojure Brasil](https://github.com/wandersoncferreira/clojure.brasil/discussions)
 
+# Links adicionais úteis para comunidade
+
+- [Clojure Brasil Empregos](https://github.com/renatoalencar/clojure-empregos-brasil)
+- [Telegram Chat](https://t.me/clojurebrasil)
+
 
 # Tutoriais e how-to
 
