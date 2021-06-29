@@ -14,6 +14,9 @@ Esperamos que você:
 
 # Conecte-se já
 
+Clique em **Watch** no canto superior direito e selecione **All Activity** para
+receber atualizações do fórum.
+
 [Fórum Clojure Brasil](https://github.com/wandersoncferreira/clojure.brasil/discussions)
 
 
