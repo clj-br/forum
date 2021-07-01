@@ -1,8 +1,8 @@
-# clojure.brasil
+# Clojure Brasil Fórum
 
-A ideia é utilizar o Discussions do Github para conectar membros da comunidade
-Clojure Brasil em um ambiente de fórum tradicional. O objetivo é prover uma
-estrutura para construção de uma base de conhecimento técnica para os usuários
+Github Discussions para conectar membros da comunidade Clojure Brasil em um ambiente de fórum tradicional. 
+
+O objetivo é prover uma estrutura para construção de uma base de conhecimento técnica para os usuários
 de Clojure no Brasil em lingua portuguesa.
 
 Esperamos que você:
