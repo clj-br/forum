@@ -3,7 +3,7 @@
 Github Discussions para conectar membros da comunidade Clojure Brasil em um ambiente de fórum tradicional. 
 
 O objetivo é prover uma estrutura para construção de uma base de conhecimento técnica para os usuários
-de Clojure no Brasil em lingua portuguesa.
+de Clojure no Brasil em língua portuguesa.
 
 Esperamos que você:
 
